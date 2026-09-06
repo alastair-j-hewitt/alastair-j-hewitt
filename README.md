@@ -17,10 +17,9 @@ Here are some ideas to get you started:
         My experience at JP Morgan
 - 📫 How to reach me: ...
         email: alastairjohnhewitt@gmail.com,
-        whatsapp: +55 21 99 751 2134,
-        US Number: +1-860-941-6702
+        whatsapp / phone number: +1-860-941-6702
 - 😄 Pronouns: ...
         He / Him
 - ⚡ Fun fact: ...
-        Falo um pouco português, Hablo un pouco español
+        Falo um pouco português
 
