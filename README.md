@@ -1,25 +1,9 @@
-### Hi there 👋
+### Hi, I'm Alastair 👋
 
-<!--
-**alastair-j-hewitt/alastair-j-hewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and full-stack software engineer based in Connecticut. Previously at JPMorgan Chase and Ray Pay.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-        Platonic LLC
-- 🌱 I’m currently learning ...
-        Pyton, Java
-- 👯 I’m looking to collaborate on ...
-        Full stack projects which service needs in consumer banking
-- 🤔 I’m looking for help with ...
-        Graduating from being a jr to mid-level to senior developer
-- 💬 Ask me about ...
-        My experience at JP Morgan
-- 📫 How to reach me: ...
-        email: alastairjohnhewitt@gmail.com,
-        whatsapp / phone number: +1-860-941-6702
-- 😄 Pronouns: ...
-        He / Him
-- ⚡ Fun fact: ...
-        Falo um pouco português
-
+- **Languages and frameworks:** Java / Spring Boot, Kotlin, Ruby on Rails, Python
+- **Security:** cybersecurity bootcamp graduate (2025); interested in application security and AI security
+- **Working on:** Platonic LLC
+- **Reach me:** [LinkedIn](https://linkedin.com/in/alastair-j-hewitt-31207943) or alastairjohnhewitt@gmail.com
+- **Fun fact:** falo um pouco de português
